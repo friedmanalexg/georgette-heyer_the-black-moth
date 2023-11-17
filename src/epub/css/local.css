@@ -13,3 +13,10 @@ footer{
 	font-variant: small-caps;
 }
 /* end letter rules */
+
+/* Begin blockquote header rules */
+blockquote header{
+	font-variant: small-caps;
+	text-align: center;
+}
+/* end blockquote header rules*/
