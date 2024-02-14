@@ -47,7 +47,7 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A disgraced nobleman leads a life of highway robbery until by chance he prevents the kidnapping of a young lady by a villainous duke, setting off a chain of events that could reveal his secrets.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Set in the eighteenth century English countryside, &lt;i&gt;The Black Moth&lt;/i&gt; follows the exploits of disgraced nobleman Lord Jack Carstares. Six years ago, Jack took the blame for his younger brother, Richard, in a card cheating scandal. Returning to England in secret after six years of self-exile in Europe, Jack fashions himself a secret identity and adventures at night as a masked highwayman. Upon word that his father has died, Jack pushes his brother to assume his father's estate. Richard, stricken by his guilty conscience, wishes to publicly confess and clear his brother's name. Yet, unbeknownst to them, a dangerous villain stalks this corner of the country, seeking his next victim!&lt;/p&gt;
+			&lt;p&gt;Set in the eighteenth century English countryside, &lt;i&gt;The Black Moth&lt;/i&gt; follows the exploits of disgraced nobleman Lord Jack Carstares. Six years ago, Jack took the blame for his younger brother, Richard, in a card cheating scandal. Returning to England in secret after six years of self-exile in Europe, Jack fashions himself a secret identity and adventures at night as a masked highwayman. Upon word that his father has died, Jack pushes his brother to assume his father’s estate. Richard, stricken by his guilty conscience, wishes to publicly confess and clear his brother’s name. Yet, unbeknownst to them, a dangerous villain stalks this corner of the country, seeking his next victim!&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Black Moth&lt;/i&gt; was the debut novel of &lt;a href="https://standardebooks.org/ebooks/georgette-heyer"&gt;Georgette Heyer&lt;/a&gt;. It is expanded from a story she originally wrote for her ailing brother. Notable for its dastardly villain and swashbuckling action, the novel was a commercial success that Heyer built off of in later works.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -77,8 +77,8 @@
 		<meta property="file-as" refines="#transcriber-2">McDonald, Laura</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://girlebooks.com/</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Marc D'Hooghe</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">D'Hooghe, Marc</meta>
+		<dc:contributor id="transcriber-3">Marc D’Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">D’Hooghe, Marc</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex G. Friedman</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Friedman, Alex G.</meta>
