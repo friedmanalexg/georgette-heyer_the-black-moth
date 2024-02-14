@@ -60,14 +60,12 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/georgette-heyer_the-black-moth</meta>
 		<dc:creator id="author">Georgette Heyer</dc:creator>
 		<meta property="file-as" refines="#author">Heyer, Georgette</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Georgette_Heyer</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79135328</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">François van Daellen</dc:contributor>
 		<meta property="file-as" refines="#artist">Daellen, François van</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://commons.wikimedia.org/wiki/File:Fran%C3%A7ois_van_Daellen,_Vanitas_Still_Life,_c._1650,_NGA_164870.jpg</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Clare Graham</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Graham, Clare</meta>
