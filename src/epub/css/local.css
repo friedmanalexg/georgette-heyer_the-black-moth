@@ -11,6 +11,7 @@ footer{
 [epub|type~="z3998:signature"]{
 	font-variant: small-caps;
 }
+
 [epub|type~="z3998:letter"] header{
 	text-align: right;
 }
@@ -25,7 +26,6 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
-
 /* end letter rules */
 
 /* Begin blockquote header rules */
@@ -33,4 +33,4 @@ blockquote header{
 	font-variant: small-caps;
 	text-align: center;
 }
-/* end blockquote header rules*/
+/* end blockquote header rules */
